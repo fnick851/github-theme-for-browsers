@@ -1,8 +1,8 @@
 {
+    "manifest_version": 3,
     "name": "Dark VS Code GitHub Theme",
-    "version": "1.1",
+    "version": "1.2",
     "description": "The dark VS Code GitHub Theme.",
-    "manifest_version": 2,
     "theme": {
         "images": {
             "theme_frame": "images\/theme_frame.png",
@@ -26,42 +26,42 @@
                 108
             ],
             "tab_background_text": [
-                209,
-                213,
-                218
+                134,
+                141,
+                149
             ],
             "bookmark_text": [
-                209,
-                213,
-                218
+                134,
+                141,
+                149
             ],
             "ntp_background": [
-                31,
-                36,
-                40
-            ],
-            "ntp_text": [
-                209,
-                213,
-                218
-            ],
-            "ntp_link": [
-                209,
-                213,
-                218
-            ],
-            "button_background": [
                 36,
                 41,
-                46,
+                46
+            ],
+            "ntp_text": [
+                134,
+                141,
+                149
+            ],
+            "ntp_link": [
+                134,
+                141,
+                149
+            ],
+            "button_background": [
+                249,
+                130,
+                108,
                 1
             ]
         },
         "tints": {
             "buttons": [
                 0.59,
-                0.11,
-                0.84
+                0.13,
+                0.9
             ],
             "frame_inactive": [
                 0.58,
