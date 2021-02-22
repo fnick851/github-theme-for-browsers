@@ -1,0 +1,18 @@
+{
+    "name": "Dark VS Code GitHub Theme",
+    "manifest_version": 2,
+    "version": "1.0",
+    "theme": {
+        "images": {
+            "theme_frame": "transparent.png"
+        },
+        "colors": {
+            "frame": "rgba(31, 36, 40, 1)",
+            "tab_background_text": "rgba(143, 151, 159, 1)",
+            "toolbar": "rgba(36, 41, 46, 1)",
+            "bookmark_text": "rgba(249, 130, 108, 1)",
+            "toolbar_field": "rgba(47, 54, 61, 1)",
+            "toolbar_field_text": "rgba(225, 228, 232, 1)"
+        }
+    }
+}
